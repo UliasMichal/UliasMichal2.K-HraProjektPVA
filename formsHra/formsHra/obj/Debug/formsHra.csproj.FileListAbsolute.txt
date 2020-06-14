@@ -1,0 +1,14 @@
+D:\Programování\PVA2\Forms\formsHra\formsHra\bin\Debug\formsHra.exe.config
+D:\Programování\PVA2\Forms\formsHra\formsHra\bin\Debug\formsHra.exe
+D:\Programování\PVA2\Forms\formsHra\formsHra\bin\Debug\formsHra.pdb
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.csprojAssemblyReference.cache
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.Properties.Resources.resources
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.csproj.GenerateResource.cache
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.csproj.CoreCompileInputs.cache
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.exe
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.pdb
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.FormHra.resources
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.Form3.resources
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.FormStartGame.resources
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.Form4.resources
+D:\Programování\PVA2\Forms\formsHra\formsHra\obj\Debug\formsHra.Form5.resources
